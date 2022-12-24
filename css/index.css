@@ -1,3 +1,20 @@
-.cv-header{
+.mikanime-header{
     dispay: flex;
 }
+
+header{
+    padding: 30px;
+}
+.header-logo{
+    background-color: chartreuse;
+    padding: 30px;
+    height: 200px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px #000; 
+
+}
+
+body{
+    background: url('b5e235bd-3afc-4b8c-8500-06301cdbfeb9.webp');
+}
+
