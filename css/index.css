@@ -6,9 +6,9 @@ header{
     padding: 30px;
 }
 .header-logo{
-    background-color: chartreuse;
+    background-color: black;
     padding: 30px;
-    height: 200px;
+    height: 150px;
     border-radius: 15px;
     box-shadow: 0 0 10px #000; 
 
