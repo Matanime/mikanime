@@ -1,20 +1,25 @@
-.mikanime-header{
-    dispay: flex;
-}
-
 header{
     padding: 30px;
 }
-.header-logo{
+.header-frame{
+    display: flex;
+    justify-content: space-between;
+ 
     background-color: black;
     padding: 30px;
     height: 150px;
     border-radius: 15px;
     box-shadow: 0 0 10px #000; 
-
 }
 
-body{
-    background: url('b5e235bd-3afc-4b8c-8500-06301cdbfeb9.webp');
+.header-logo{
+    align-self: center; 
 }
 
+.header-moon{
+    align-self: center;
+}
+
+.plug{
+    align-self: center;
+}
